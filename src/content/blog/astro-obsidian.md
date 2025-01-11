@@ -79,7 +79,7 @@ Then we create another folder for the `assets` folder: `mklink /D D:\Bryan\Docum
 
 With this solution we won't cause any problems in a shared environment, and we also keep our ability to write our Astro content in Obsidian how we want. All while still being able to share the same Obsidian environment / layout across different devices.
 
-Note, to get this working between a google drive folder and local windows file I had to use `/J` instead.
+Note, to get this working between a google drive folder and local windows file you have to use `/J` instead.
 Write me your questions on any of my socials linked at the bottom or top of this page. Any feedback or other responses are also welcome!
 
 <details>

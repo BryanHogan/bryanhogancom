@@ -13,7 +13,7 @@ tags: ["creating", "development", "coco", "university"]
 For my last semester at Code & Context I am creating an app to help you keep track of what matters to you.
 
 *This is an ongoing post, I will be adding updates as I am working on the project.*
-
+ 
 ## Week 0 - Getting Started
 
 After collecting and refining many ideas throughout the past months I've decided on what to write my proposal on. The proposal is a short document needed for me to start into my final project and then the bachelor thesis. After working 8-10 weeks on this final project I can start on my thesis.  
